@@ -186,5 +186,22 @@
         " Droppa ut ett par droppar grön färg och gör lite snurror med tandpetare. Doppa kakorna och låt kristyren stelna. Eller spritsa dem med kristyr och strö strössel på dem."
       ]
     }
+  },
+  {
+    "recipe": {
+      "label": "Sockerlag",
+      "image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_67970/cf_259/sockerlag.jpg",
+      "underrubrik1": "",
+      "underrubrik1Text": [
+        "1 dl socker",
+        "2 dl kokande vatten"
+      ],
+      "underrubrik2": "",
+      "underrubrik2Text": "",
+      "recept": [
+        "Lös upp socker i kokande vatten.",
+        "Låt svalna."
+      ]
+    }
   }
 ]
