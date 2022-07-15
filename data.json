@@ -229,5 +229,29 @@
         "Låt kakan svalna i formen i minst 10 minuter innan du stjälper upp den."
       ]
     }
+  },
+  {
+    "recipe": {
+      "label": "Våfflor",
+      "image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_238446/cf_259/grundrecept_vaffelsmet.jpg",
+      "underrubrik1": "",
+      "underrubrik1Text": [
+        "100 g smör eller margarin",
+        "4 dl vetemjöl",
+        "1½ tsk bakpulver",
+        "½ tsk salt",
+        "2 ägg",
+        "5 dl mjölk"
+      ],
+      "underrubrik2": "",
+      "underrubrik2Text": "",
+      "recept": [
+        "Smält smöret på svag värme. Låt det svalna.",
+        "Blanda mjöl, bakpulver och salt i en bunke.",
+        "Vispa ner ägg och mjölk i mjölblandningen till en slät smet. Vispa i smöret.",
+        "Hetta upp våffeljärnet. Smörj med smör till den första laggen.",
+        "Grädda våfflorna tills de får fin färg."
+      ]
+    }
   }
 ]
