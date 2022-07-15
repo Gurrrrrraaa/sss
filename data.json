@@ -203,5 +203,31 @@
         "Låt svalna."
       ]
     }
+  },
+  {
+    "recipe": {
+      "label": "Fin sockerkaka",
+      "image": "https://rebeckaskok.files.wordpress.com/2012/01/img_6184-2.jpg?w=640&h=426",
+      "underrubrik1": "",
+      "underrubrik1Text": [
+        "150g smör",
+        "3 ägg",
+        "2½ dl socker",
+        "3½dl (210) mjöl",
+        "1 tsk bakpulver",
+        "2 tsk vaniljsocker eller rivet skal av ½ citron"
+      ],
+      "underrubrik2": "",
+      "underrubrik2Text": "",
+      "recept": [
+        "Sätt ugnen på 175 grader.",
+        "Smält matfettet och låt det svalna. Vispa äggen och sockret poröst.",
+        "Tillsätt mjölet, bakpulvret, smaktillsatsen och matfettet.",
+        "Rör om tills allt är väl blandat.",
+        "Häll smeten i en smord och bröad, mjölad eller kokosad form, ca 1½ liter.",
+        "Grädda kakan i mitten av ugnen i ca 35 minuter.",
+        "Låt kakan svalna i formen i minst 10 minuter innan du stjälper upp den."
+      ]
+    }
   }
 ]
