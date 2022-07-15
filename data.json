@@ -253,5 +253,10 @@
         "Grädda våfflorna tills de får fin färg."
       ]
     }
+  },
+  {
+     "recipe": {
+        "label": "mums"
+     }
   }
 ]
