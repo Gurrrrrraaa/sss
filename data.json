@@ -299,5 +299,307 @@
         "Sikta florsocker över om så önskas. Servera med vispad grädde och färska bär."
       ]
     }
+  },
+  
+  {
+    "recipe": {
+      "type": "grejer",
+      "label": "Brownies",
+      "image": "https://images.aftonbladet-cdn.se/v2/images/f117bb2a-d627-4122-aa2d-fa1572517894?fit=crop&format=auto&h=525&q=50&w=700&s=27c87150db5def516be10a84523ed80a85469bae",
+      "ingredienser": [],
+      "recept": [
+        "Sätt ugnen på 175°C.",
+        "Smält smöret i en kastrull, häll i socker, kakao, salt och vaniljsocker och blanda om. Rör i ett ägg i taget. Röra ner mjölet och blanda till en slät smet.",
+        "Klä en form, cirka 20 x 20 centmeter, med bakplåtspapper.",
+        "Häll smeten i formen och jämna till den. Grädda mitt i ugnen i cirka 20 minuter. Strö över flingsaltet, kan uteslutas. Låt svalna helt innan servering för bästa smak, skär i kvadrater."
+      ],
+      "underrubrik1": "",
+      "underrubrik1Text": [
+        "200g smör",
+        "3 dl strösocker",
+        "1 ½ dl kakao",
+        "1 tsk salt",
+        "1 msk vaniljsocker",
+        "3 ägg",
+        "1 ½ dl vetemjöl",
+        "Flingsalt"
+      ],
+      "underrubrik2": "",
+      "underrubrik2Text": [],
+      "kategori": "goda"
+    }
+  },
+  {
+    "recipe": {
+      "type": "grejer",
+      "label": "Chokladkex",
+      "image": "https://i0.wp.com/www.jennysmatblogg.nu/app/uploads/sites/6/2014/02/IMG_6099-001.jpg",
+      "ingredienser": [],
+      "recept": [
+        "Smält mjölkchokladen(150g) och nougaten i ett vattenbad eller i mikron, när allt har smält ta bort från kastrullen och rör om.",
+        "Bred ut ett tunt lager chokladblandning på tre smörgåsrån.",
+        "Lägg dem ovanpå varandra med chokladsidan uppåt och lägg slutligen på ett fjärde rån på toppen. Gör samma sätt med resten av rånen.",
+        "Låt kexen ligga i kylen tills fyllningen har stelnat och skär sedan varje kex i tre bitar.",
+        "Hacka mjölkchokladen(300g) i bitar och smält den på samma sätt som tidigare. Rör ner rapsoljan.",
+        "Täck en skärbräda med bakplåtspapper. Doppa varje bit i chokladen och lägg dem på bakplåtspappret. Låt sedan bitarna ligga i kylen tills chokladen har stelnat."
+      ],
+      "underrubrik1": "Fyllning:",
+      "underrubrik1Text": [
+        "150 g mjölkchoklad",
+        "150 g nougat"
+      ],
+      "underrubrik2": "Kex:",
+      "underrubrik2Text": [
+        "24st smörgåsrån",
+        "300 g mjölkchoklad",
+        "7 g rapsolja (½ msk)"
+      ],
+      "kategori": "goda"
+    }
+  },
+  {
+    "recipe": {
+      "type": "grejer",
+      "label": "Pannkakor",
+      "image": "https://cdn-rdb.arla.com/Files/arla-se/3249856695/32b74f1c-1632-4aee-aa3b-8fd449494835.jpg?mode=crop&w=1269&h=715&ak=f525e733&hm=e78d4790",
+      "ingredienser": [],
+      "recept": [
+        "Vispa ut mjölet i hälften av mjölken till en slät smet. Vispa i resterande mjölk, ägg och salt.",
+        "Låt smeten svälla ca 10 min.",
+        "Smält smör i en stekpanna och häll ner i smeten. Grädda tunna pannkakor."
+      ],
+      "underrubrik1": "",
+      "underrubrik1Text": [
+        "3dl vetemjöl",
+        "6dl mjölk",
+        "3 ägg",
+        "½ tsk salt",
+        "2 msk smör"
+      ],
+      "underrubrik2": "",
+      "underrubrik2Text": [],
+      "kategori": "äckliga"
+    }
+  },
+  {
+    "recipe": {
+      "type": "saker",
+      "label": "Sega Chokladkakor",
+      "image": "https://anaytrxdzo.cloudimg.io/v7/_tailsweep_/036/2018/09/goda-chokladkakor.jpg?org_if_sml=1&w=820",
+      "ingredienser": [],
+      "recept": [
+        "Sätt ugnen på 175°C.",
+        "Häll i alla torra ingredienserna och rör om.",
+        "Tillsätt sedan sirapen och smöret, blanda sedan ihop allt.",
+        "Knåda sedan degen till en boll",
+        "Dela sedan ut små bollar på plåten och platta till.",
+        "Strö sedan på pärlsockret.",
+        "Grädda i mitten av ugnen 10-15 min beroende av den seghet du vill ha."
+      ],
+      "underrubrik1": "",
+      "underrubrik1Text": [
+        "2dl mjöl",
+        "1dl strösocker",
+        "½ dl kakao",
+        "1dl sirap",
+        "2tsk bakpulver",
+        "2tsk vaniljsocker",
+        "75g rumsvarmt smör",
+        "Pärlsocker"
+      ],
+      "underrubrik2": "",
+      "underrubrik2Text": [],
+      "kategori": "äckliga"
+    }
+  },
+  {
+    "recipe": {
+      "type": "saker",
+      "label": "Schweiziska maränger",
+      "image": "https://img.koket.se/standard-mega/roys-sega-chokladmaranger-2.png",
+      "ingredienser": [],
+      "underrubrik1": "",
+      "underrubrik1Text": [
+        "100g mörk choklad",
+        "100g äggvita (3-4 äggvitor)",
+        "220g strösocker (2 ½ dl)"
+      ],
+      "recept": [
+        "Värm ugnen till 140°C, varmluftsfunktion.",
+        "Hacka chokladen och smält den i ett vattenbad eller i mikron.",
+        "Vispa lite snabbt ihop äggvitor och strösocker för hand i en värmetålig bunke.",
+        "Placera bunken i ett vattenbad och låt smeten komma upp till 55-60°C, Vispa för hand då och då.",
+        "Ta bort bunken från värmen. Vispa marängen med elvisp tills smeten är kall, det tar minst 10 min.",
+        "Ringla den smälta chokladen ovanpå marängen(blanda inte).",
+        "Använd dig av två matskedar och klicka ut marängsmeten på en plåt med bakplåtspapper.",
+        "Grädda nitt i ugnen i 40 minuter. Stäng sedan av ugnen, öppna luckan lite och sätt en träslev eller något liknande i luckan, så att det blir en liten glipa. Låt marängerna stå kvar tills ugnen har blivit kall. Förvara marängerna torrt."
+      ],
+      "underrubrik2": "",
+      "underrubrik2Text": "",
+      "kategori": "Glutenfria"
+    }
+  },
+  {
+    "recipe": {
+      "type": "grejer",
+      "label": "Chokladbollar",
+      "image": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_240269/cf_259/chokladbollar.jpg",
+      "ingredienser": [],
+      "underrubrik1": "",
+      "underrubrik1Text": [
+        "100g smör eller margarin",
+        "1 dl socker",
+        "1 msk vaniljsocker",
+        "2-3 msk kakao",
+        "3 dl havregryn",
+        "2-3 msk kallt starkt kaffe"
+      ],
+      "underrubrik2": "Garnering:",
+      "underrubrik2Text": [
+        "Pärlsocker eller kokosflingor"
+      ],
+      "recept": [
+        "Rör matfett, socker och vaniljsocker poröst.",
+        "Balnda i kakao",
+        "Tillsätt havregryn och kaffe, rör om tills allt är väl blandat",
+        "Forma smeten till små runda bollar.",
+        "Rulla dem i pärlsocker eller kokosflingor. Förvara chokladbollarna i kylskåp tills de ska ätas."
+      ]
+    }
+  },
+  {
+    "recipe": {
+      "type": "saker",
+      "label": "Julgranskakor",
+      "image": "https://brinkenbakar.se/wp-content/uploads/2018/12/Julkakor-granar.jpg",
+      "underrubrik1": "",
+      "underrubrik1Text": [
+        "180 g vetemjöl (3 dl)",
+        "30 g florsocker (0,5 dl)",
+        "2 tsk vaniljsocker",
+        "125 gram kallt smör"
+      ],
+      "underrubrik2": "Kristyr",
+      "underrubrik2Text": [
+        "1 äggvita",
+        "120 g florsocker (2 dl)",
+        "Strössel",
+        "Grön pastafärg/karamellfärg"
+      ],
+      "recept": [
+        "Lägg alla ingredienser i en matberedare och mixa tills det går ihop till en deg. Eller nyp ihop den för hand. Överarbeta inte.",
+        "Plasta in degen och låt den vila i kylen i ca 1 timme.",
+        "Kavla degen, ca 3-4 mm och ta ut granar med en pepparkaksform.",
+        "Baka på 175 grader i ca 8-10 minuter.",
+        "Vispa äggvita och florsocker poröst, gärna med en elvisp.",
+        " Droppa ut ett par droppar grön färg och gör lite snurror med tandpetare. Doppa kakorna och låt kristyren stelna. Eller spritsa dem med kristyr och strö strössel på dem."
+      ]
+    }
+  },
+  {
+    "recipe": {
+      "type": "saker",
+      "label": "Sockerlag",
+      "image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_67970/cf_259/sockerlag.jpg",
+      "underrubrik1": "",
+      "underrubrik1Text": [
+        "1 dl socker",
+        "2 dl kokande vatten"
+      ],
+      "underrubrik2": "",
+      "underrubrik2Text": "",
+      "recept": [
+        "Lös upp socker i kokande vatten.",
+        "Låt svalna."
+      ]
+    }
+  },
+  {
+    "recipe": {
+      "type": "grejer",
+      "label": "Sockerkaka",
+      "image": "https://rebeckaskok.files.wordpress.com/2012/01/img_6184-2.jpg?w=640&h=426",
+      "underrubrik1": "",
+      "underrubrik1Text": [
+        "150g smör",
+        "3 ägg",
+        "2½ dl socker",
+        "3½dl (210) mjöl",
+        "1 tsk bakpulver",
+        "2 tsk vaniljsocker eller rivet skal av ½ citron"
+      ],
+      "underrubrik2": "",
+      "underrubrik2Text": "",
+      "recept": [
+        "Sätt ugnen på 175 grader.",
+        "Smält matfettet och låt det svalna. Vispa äggen och sockret poröst.",
+        "Tillsätt mjölet, bakpulvret, smaktillsatsen och matfettet.",
+        "Rör om tills allt är väl blandat.",
+        "Häll smeten i en smord och bröad, mjölad eller kokosad form, ca 1½ liter.",
+        "Grädda kakan i mitten av ugnen i ca 35 minuter.",
+        "Låt kakan svalna i formen i minst 10 minuter innan du stjälper upp den."
+      ]
+    }
+  },
+  {
+    "recipe": {
+      "type": "saker",
+      "label": "Våfflor",
+      "image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_238446/cf_259/grundrecept_vaffelsmet.jpg",
+      "underrubrik1": "",
+      "underrubrik1Text": [
+        "100 g smör eller margarin",
+        "4 dl vetemjöl",
+        "1½ tsk bakpulver",
+        "½ tsk salt",
+        "2 ägg",
+        "5 dl mjölk"
+      ],
+      "underrubrik2": "",
+      "underrubrik2Text": "",
+      "recept": [
+        "Smält smöret på svag värme. Låt det svalna.",
+        "Blanda mjöl, bakpulver och salt i en bunke.",
+        "Vispa ner ägg och mjölk i mjölblandningen till en slät smet. Vispa i smöret.",
+        "Hetta upp våffeljärnet. Smörj med smör till den första laggen.",
+        "Grädda våfflorna tills de får fin färg."
+      ]
+    }
+  },
+  {
+    "recipe": {
+      "type": "saker",
+      "label": "Kladdkaka",
+      "image": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_221660/cf_259/kladdig_kladdkaka.jpg",
+      "underrubrik1": "",
+      "underrubrik1Text": [
+        "Smör till formen",
+        "Ströbröd till formen",
+        "100 g smör",
+        "2 st ägg",
+        "2½ dl strösocker",
+        "3 msk kakao",
+        "2 tsk vaniljsocker",
+        "1½ dl vetemjöl",
+        "1 krm salt"
+      ],
+      "underrubrik2": "Till servering",
+      "underrubrik2Text": [
+        "Florsocker till garnering",
+        "2 dl vispgrädde",
+        "Färska bär"
+      ],
+      "recept": [
+        "Sätt ugnen på 200°C.",
+        "Smörj och bröa en form med löstagbar kant, ca 24 cm i diameter (för 8 bitar) eller spänn fast ett bakplåtspapper på botten.",
+        "Smält smöret i kastrull, låt svalna något.",
+        "Vispa ihop ägg och socker (använd inte en elvisp).",
+        "Blanda kakao, vaniljsocker, vetemjöl och salt i en bunke och rör ner i äggblandningnen.",
+        "Tillsätt det smälta smöret och blanda försiktigt ihop till en jämn smet och häll sedan över smeten i formen.",
+        "Grädda mitt i ugnen i ca 10-15 minuter (öka eller minska tiden vid behov beroende på hur kladdig du vill ha den).",
+        "Ta ut kladdkakan och låt svalna",
+        "Sikta florsocker över om så önskas. Servera med vispad grädde och färska bär."
+      ]
+    }
   }
 ]
